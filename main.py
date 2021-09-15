@@ -16,7 +16,7 @@ def Opt3(opt, result):
 def Opt4(opt, result):
     return opt + ' gives result as ' + str(result)
 
-Opts = input('Enter the function (+, -, * ,/) => ')
+Opts = input('Enter the Mathematical Symbols (+, -, * ,/) => ')
 n1 = int(input('Enter the 1st number => '))
 n2 = int(input('Enter the 2nd number => '))
 
